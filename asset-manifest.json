@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-01-components/static/css/main.de4408ec.css",
-    "main.js": "/goit-react-hw-01-components/static/js/main.5af01dc9.js",
-    "index.html": "/goit-react-hw-01-components/index.html",
-    "main.de4408ec.css.map": "/goit-react-hw-01-components/static/css/main.de4408ec.css.map",
-    "main.5af01dc9.js.map": "/goit-react-hw-01-components/static/js/main.5af01dc9.js.map"
+    "main.css": "/star-wars-app/static/css/main.fd9f03d7.css",
+    "main.js": "/star-wars-app/static/js/main.b7d14ed7.js",
+    "static/media/olena-sergienko-Cq5NaI0yKBE-unsplash.jpg": "/star-wars-app/static/media/olena-sergienko-Cq5NaI0yKBE-unsplash.59e2ae85c5a5f0d2e7ea.jpg",
+    "static/media/starwars.png": "/star-wars-app/static/media/starwars.bbfd797216db97cd86e5.png",
+    "static/media/starwars-new.png": "/star-wars-app/static/media/starwars-new.8cdaf209f4dea446538b.png",
+    "static/media/star-wars-4.svg": "/star-wars-app/static/media/star-wars-4.3bf2a05eba37f49b9b0ddfa3920fb34f.svg",
+    "index.html": "/star-wars-app/index.html",
+    "main.fd9f03d7.css.map": "/star-wars-app/static/css/main.fd9f03d7.css.map",
+    "main.b7d14ed7.js.map": "/star-wars-app/static/js/main.b7d14ed7.js.map"
   },
   "entrypoints": [
-    "static/css/main.de4408ec.css",
-    "static/js/main.5af01dc9.js"
+    "static/css/main.fd9f03d7.css",
+    "static/js/main.b7d14ed7.js"
   ]
 }
